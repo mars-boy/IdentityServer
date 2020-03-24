@@ -1,0 +1,14 @@
+C:\Users\sai\source\repos\TokenValidation\TokenValidation\bin\Debug\netcoreapp2.1\TokenValidation.deps.json
+C:\Users\sai\source\repos\TokenValidation\TokenValidation\bin\Debug\netcoreapp2.1\TokenValidation.runtimeconfig.json
+C:\Users\sai\source\repos\TokenValidation\TokenValidation\bin\Debug\netcoreapp2.1\TokenValidation.runtimeconfig.dev.json
+C:\Users\sai\source\repos\TokenValidation\TokenValidation\bin\Debug\netcoreapp2.1\TokenValidation.dll
+C:\Users\sai\source\repos\TokenValidation\TokenValidation\bin\Debug\netcoreapp2.1\TokenValidation.pdb
+C:\Users\sai\source\repos\TokenValidation\TokenValidation\obj\Debug\netcoreapp2.1\TokenValidation.csproj.CoreCompileInputs.cache
+C:\Users\sai\source\repos\TokenValidation\TokenValidation\obj\Debug\netcoreapp2.1\TokenValidation.RazorAssemblyInfo.cache
+C:\Users\sai\source\repos\TokenValidation\TokenValidation\obj\Debug\netcoreapp2.1\TokenValidation.RazorAssemblyInfo.cs
+C:\Users\sai\source\repos\TokenValidation\TokenValidation\obj\Debug\netcoreapp2.1\TokenValidation.AssemblyInfoInputs.cache
+C:\Users\sai\source\repos\TokenValidation\TokenValidation\obj\Debug\netcoreapp2.1\TokenValidation.AssemblyInfo.cs
+C:\Users\sai\source\repos\TokenValidation\TokenValidation\obj\Debug\netcoreapp2.1\TokenValidation.RazorTargetAssemblyInfo.cache
+C:\Users\sai\source\repos\TokenValidation\TokenValidation\obj\Debug\netcoreapp2.1\TokenValidation.dll
+C:\Users\sai\source\repos\TokenValidation\TokenValidation\obj\Debug\netcoreapp2.1\TokenValidation.pdb
+C:\Users\sai\source\repos\TokenValidation\TokenValidation\obj\Debug\netcoreapp2.1\TokenValidation.csprojAssemblyReference.cache
